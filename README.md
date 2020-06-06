@@ -20,5 +20,5 @@ npm start
 
 ### Background Image
 
-1. Searched [Duotone](https://duotone.shapefactory.co/) for an image related to `mint`, then colored it with `#509413` and `#ebf9ce`. The duo-toned images was downloaded,a nd saved as `bg.png`.
+1. Searched [Duotone](https://duotone.shapefactory.co/) for an image related to `mint`, then colored it with `#509413` and `#ebf9ce`. The duo toned image was downloaded, and saved as `bg.png`.
 2. Followed instructions at [Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/) to set `bg.png` as the background image.
