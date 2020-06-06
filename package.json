@@ -1,10 +1,13 @@
 {
-  "name": " ",
+  "name": "mynta-se",
   "version": "0.0.1",
-  "description": "",
-  "keywords": "",
-  "license": "",
-  "author": "",
+  "description": "A basic site made with HTML5 Boilerplate.",
+  "keywords": [
+    "mynta",
+    "html5-boilerplate"
+  ],
+  "license": "MIT",
+  "author": "falric",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
