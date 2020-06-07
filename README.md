@@ -1,5 +1,7 @@
 # Mynta
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6fa5142b-3477-4532-864f-0d2130b3f45b/deploy-status)](https://app.netlify.com/sites/mynta/deploys)
+
 ## Quick Creation of a Website
 
 ### HTML Boilerplate
