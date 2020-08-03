@@ -1,6 +1,6 @@
 # Mynta
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6fa5142b-3477-4532-864f-0d2130b3f45b/deploy-status)](https://app.netlify.com/sites/mynta/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6fa5142b-3477-4532-864f-0d2130b3f45b/deploy-status)](https://app.netlify.com/sites/mynta/deploys) [![Runme](https://runme.io/static/button.svg)](https://runme.io/run?app_id=76ab75eb-f177-40f9-8e6d-eed4271c28f7)
 
 ## Quick Creation of a Website
 
