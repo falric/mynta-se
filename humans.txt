@@ -3,11 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    Rickard Falk -- Author -- @rickard_falk
 
 # TECHNOLOGY COLOPHON
 
