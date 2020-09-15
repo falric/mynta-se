@@ -31,4 +31,4 @@ npm start
 - ~Update Web Manifest.~
 - ~~Learn more about, and possibly update, humans.txt.~~
 - ~Update `browserconfig.xml`.~
-- Update 404 page.
+
